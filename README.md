@@ -28,7 +28,7 @@ Additionally, there are:
 
 * Pewlett-Hackard has a mentorship program that consists of future retirees to mentor the remaining employees.  Those employees included in the program held the same current title as the retiree and had a date of birth from 1/1/1965 - 12/31/1965.  According to the analysis, there would be a very small number (1,549) employees eligible for the program.  This results in a very large ratio of retiree to mentor and in one case, no current employee to mentor.   
 
-
+  ![Eligible Mentorship Employees 1965](https://github.com/laura3kids/Pewlett-Hackard-Analysis/blob/main/Mentorship_Eligible_1965.png)
 
 * By expanding the mentorship program to include the birthdates of current employees to 1/1/1964 - 12/31/1965, this greatly expands those eligible for mentorship and allows for a much more realistic ratio of retirees to mentored employee.  
 
