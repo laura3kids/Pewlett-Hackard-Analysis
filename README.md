@@ -32,6 +32,8 @@ Additionally, there are:
 
 * By expanding the mentorship program to include the birthdates of current employees to 1/1/1964 - 12/31/1965, this greatly expands those eligible for mentorship and allows for a much more realistic ratio of retirees to mentored employee.  
 
+  ![Eligible Mentorship Employees 1964 1965](https://github.com/laura3kids/Pewlett-Hackard-Analysis/blob/main/Mentorship_Eligible_1964_1965.png)
+
 
 
 
